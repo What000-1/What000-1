@@ -6,9 +6,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zllovxyen\&style=for-the-badge\&color=bd93f9)
-![GitHub Followers](https://img.shields.io/github/followers/Zllovxyen?style=for-the-badge\&color=ff79c6\&labelColor=282a36)
-![GitHub Stars](https://img.shields.io/github/stars/Zllovxyen?style=for-the-badge\&color=8be9fd\&labelColor=282a36)
+![Profile Views](https://komarev.com/ghpvc/?username=What000-1\&style=for-the-badge\&color=bd93f9)
+![GitHub Followers](https://img.shields.io/github/followers/What000-1?style=for-the-badge\&color=ff79c6\&labelColor=282a36)
+![GitHub Stars](https://img.shields.io/github/stars/What000-1?style=for-the-badge\&color=8be9fd\&labelColor=282a36)
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🌸 关于我 / About Me
 
 ```text
-昵称        Zllovxyen
+昵称        What000-1
 当前主线    逆向工程 · 反编译 · 二进制安全
 兴趣支线    AI · Linux · 网络技术 · 自动化工具
 正在使用    Claude Code · Pi · Skills
