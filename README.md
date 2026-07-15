@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=Zllovxyen&fontSize=52&fontAlignY=36&desc=Reverse%20Engineering%20%C3%97%20AI%20%C3%97%20Cybersecurity&descAlignY=59&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=What000-1&fontSize=52&fontAlignY=36&desc=Reverse%20Engineering%20%C3%97%20AI%20%C3%97%20Cybersecurity&descAlignY=59&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=%E6%AD%A3%E5%9C%A8%E6%94%BB%E7%95%A5%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E4%B8%8E%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8;Exploring+Reverse+Engineering+%26+Binary+Security;%E5%96%9C%E6%AC%A2+AI%E3%80%81Linux+%E4%B8%8E%E6%9C%89%E8%B6%A3%E7%9A%84%E6%8A%80%E6%9C%AF;Keep+learning%2C+keep+building+%E2%9C%A8" alt="Typing SVG" />
 
@@ -100,23 +100,6 @@ AI / Agent        ███████░░░  兴趣浓厚
 * [ ] 编写实用的自动化脚本与 Skills
 * [ ] 保持好奇，持续提交代码
 
----
-
-## 🧪 精选项目
-
-<!-- 把下面的仓库名替换成你自己的项目仓库 -->
-
-<div align="center">
-
-<a href="https://github.com/Zllovxyen/REPOSITORY_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zllovxyen&repo=REPOSITORY_ONE&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Zllovxyen/REPOSITORY_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zllovxyen&repo=REPOSITORY_TWO&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
