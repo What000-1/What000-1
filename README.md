@@ -1,116 +1,213 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=What000-1&fontSize=52&fontAlignY=36&desc=Reverse%20Engineering%20%C3%97%20AI%20%C3%97%20Cybersecurity&descAlignY=59&animation=twinkling" />
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:bd93f9,100:8be9fd&height=210&section=header&text=What000-1&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%E6%AD%A3%E5%9C%A8%E6%94%BB%E7%95%A5%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E3%80%81AI%20%E4%B8%8E%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8&descSize=18&descAlignY=58&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=%E6%AD%A3%E5%9C%A8%E6%94%BB%E7%95%A5%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E4%B8%8E%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8;Exploring+Reverse+Engineering+%26+Binary+Security;%E5%96%9C%E6%AC%A2+AI%E3%80%81Linux+%E4%B8%8E%E6%9C%89%E8%B6%A3%E7%9A%84%E6%8A%80%E6%9C%AF;Keep+learning%2C+keep+building+%E2%9C%A8" alt="Typing SVG" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=What000-1\&style=for-the-badge\&color=bd93f9)
-![GitHub Followers](https://img.shields.io/github/followers/What000-1?style=for-the-badge\&color=ff79c6\&labelColor=282a36)
-![GitHub Stars](https://img.shields.io/github/stars/What000-1?style=for-the-badge\&color=8be9fd\&labelColor=282a36)
-
-</div>
-
----
-
-## 🌸 关于我 / About Me
-
-```text
-昵称        What000-1
-当前主线    逆向工程 · 反编译 · 二进制安全
-兴趣支线    AI · Linux · 网络技术 · 自动化工具
-正在使用    Claude Code · Pi · Skills
-当前状态    从“看不懂”开始，一点点把复杂系统拆开
-```
-
-* 🔭 正在学习 **Reverse Engineering / Binary Security**
-* 🧩 喜欢研究程序内部结构、反编译工具和自动化 Skill
-* 🤖 对 **AI、Agent、MCP、Skills** 等方向保持好奇
-* 🐧 正在探索 Linux，并持续完善自己的技术栈
-* 🌱 不追求一开始就无所不知，只追求今天比昨天多懂一点
-* 💬 欢迎交流逆向、安全、AI 和各种有趣的技术
-
-> 「即使暂时看不懂，也可以先走近一点。复杂的世界，终会被一行行拆开。」
-
----
-
-## 🎮 当前攻略进度
-
-```text
-逆向工程          ███████░░░  学习中
-二进制安全        ██████░░░░  持续探索
-Python            ██████░░░░  基础积累
-Linux             █████░░░░░  正在熟悉
-AI / Agent        ███████░░░  兴趣浓厚
-```
-
----
-
-## 🛠️ 技术栈 / Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,arch,windows,git,github,vscode,powershell,bash,docker&perline=6" />
+<!-- Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=26&pause=900&color=FF79C6&center=true&vCenter=true&width=780&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E7%94%B5%E5%AD%90%E5%B0%8F%E5%B1%8B+%E2%9C%A8;%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E4%BF%AE%E8%A1%8C%E4%B8%AD+%E2%9A%94%EF%B8%8F;%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8%E6%94%BB%E7%95%A5%E4%B8%AD+%F0%9F%8C%99;AI+%C3%97+Security+%C3%97+Linux+%F0%9F%90%BE" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Reverse%20Engineering-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Binary%20Security-FF79C6?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-6272A4?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/CTF-50FA7B?style=for-the-badge&logo=target&logoColor=282A36" />
+<img src="https://komarev.com/ghpvc/?username=Zllovxyen&style=for-the-badge&color=ff79c6&label=%E8%AE%BF%E5%AE%A2%E6%95%B0" />
+<img src="https://img.shields.io/github/followers/Zllovxyen?style=for-the-badge&color=bd93f9&labelColor=282a36&label=%E5%85%B3%E6%B3%A8%E8%80%85" />
+<img src="https://img.shields.io/github/stars/Zllovxyen?style=for-the-badge&color=8be9fd&labelColor=282a36&label=Stars" />
+
+<br><br>
+
+```text
+✦ ･ﾟ:* 这里是 What000-1 的 GitHub 小屋 *:･ﾟ✦
+ฅ^•ﻌ•^ฅ  正在从零开始攻略：逆向工程 / 二进制安全 / AI Agent
+```
 
 </div>
 
 ---
 
-## 📚 最近正在学习
+<div align="center">
 
-* 程序的编译、链接与加载过程
-* 汇编语言与常见指令
-* PE / ELF 文件结构
-* 静态分析与动态调试
-* Ghidra、IDA、x64dbg、GDB 等工具
-* Python 自动化脚本
-* Claude Code / Pi 中的 Skill 工作流
+## 🌸 个人设定 / Character Profile
 
----
+</div>
 
-## 📊 GitHub 数据
+```yaml
+Name: What000-1
+Class: Reverse Engineering Apprentice
+Main Quest:
+  - Reverse Engineering
+  - Binary Security
+  - AI Agent / Skills
+Sub Quest:
+  - Linux
+  - Python Automation
+  - C / C++
+Status:
+  - 正在变强
+  - 正在补基础
+  - 正在把看不懂的东西一点点拆开
+Motto: "复杂的世界，也可以一行一行读懂。"
+```
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zllovxyen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zllovxyen&layout=compact&theme=tokyonight&hide_border=true" />
+> 「今日も一歩ずつ。今天也比昨天多懂一点点。」  
+> ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐾 技能树 / Skill Tree
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### ⚔️ Reverse Engineering
+
+```text
+反编译分析     ███████░░░
+汇编阅读       █████░░░░░
+动态调试       ██████░░░░
+PE / ELF       █████░░░░░
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🌙 Cybersecurity
+
+```text
+二进制安全     ██████░░░░
+漏洞理解       █████░░░░░
+CTF Pwn/Rev    █████░░░░░
+自动化脚本     ██████░░░░
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI / Agent
+
+```text
+Prompt          ███████░░░
+Skills          ███████░░░
+MCP             █████░░░░░
+自动化工作流    ██████░░░░
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🐧 Linux / Dev
+
+```text
+Arch Linux      █████░░░░░
+Shell           █████░░░░░
+Git / GitHub    ██████░░░░
+Python          ██████░░░░
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧰 装备栏 / Tech Inventory
 
 <br>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zllovxyen&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,arch,windows,git,github,vscode,bash,powershell,docker&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Reverse%20Engineering-ff79c6?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Binary%20Security-bd93f9?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agent-8be9fd?style=for-the-badge&logo=openai&logoColor=282a36" />
+<img src="https://img.shields.io/badge/Linux-50fa7b?style=for-the-badge&logo=linux&logoColor=282a36" />
+<img src="https://img.shields.io/badge/CTF-ffb86c?style=for-the-badge&logo=target&logoColor=282a36" />
 
 </div>
 
 ---
 
-## ✨ 本年度目标
+<div align="center">
 
-* [ ] 打牢 C / C++ 与计算机底层基础
-* [ ] 系统学习汇编、PE 与 ELF
-* [ ] 独立完成几个逆向分析小项目
-* [ ] 整理自己的二进制安全知识库
-* [ ] 编写实用的自动化脚本与 Skills
-* [ ] 保持好奇，持续提交代码
+## 📖 正在读的魔法书 / Learning Notes
 
+</div>
+
+```text
+📌 计算机组成原理
+📌 C / C++ 基础与内存模型
+📌 汇编语言与调用约定
+📌 PE / ELF 文件结构
+📌 Ghidra / IDA / x64dbg / GDB
+📌 Linux 基础与命令行
+📌 Python 自动化分析脚本
+📌 Claude Code / Pi / Skills 工作流
+```
 
 ---
 
 <div align="center">
 
-### 🌙 Thanks for visiting
+## 🎀 今日任务板 / Quest Board
+
+</div>
+
+- [ ] 每天理解一个底层概念
+- [ ] 每周整理一篇学习笔记
+- [ ] 复现一个简单 CrackMe / Rev 题
+- [ ] 写一个能真正帮到自己的脚本
+- [ ] 把看不懂的源码拆成能看懂的小块
+- [ ] 不因为暂时菜就否定自己
 
 ```text
-(づ｡◕‿‿◕｡)づ  愿每一次提交，都让技能树亮起一个新的节点。
+经验值 +1 的方式：
+不是突然变强，而是今天又多坚持了一点。
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+---
+
+<div align="center">
+
+## 📊 GitHub 状态面板 / Status Panel
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zllovxyen&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=bd93f9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zllovxyen&layout=compact&theme=tokyonight&hide_border=true&title_color=ff79c6" />
+
+<br><br>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zllovxyen&theme=tokyo-night&hide_border=true&area=true&custom_title=%E8%B4%A1%E7%8C%AE%E6%98%9F%E8%BD%A8%20/%20Contribution%20Orbit" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 小屋留言 / Message
+
+```text
+  /\_/\
+ ( o.o )   这里是一只正在学习逆向的猫猫
+  > ^ <    虽然现在还不够强，但已经在路上了
+```
+
+> 「看不懂不是终点，而是入口。」  
+> 「所有大佬也曾经从 Hello World 开始。」  
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,50:bd93f9,100:ff79c6&height=140&section=footer" width="100%" />
 
 </div>
